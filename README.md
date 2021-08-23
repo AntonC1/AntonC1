@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @AntonC1 or Anton  
-- 👀 I’m interested in Water Sports | Anime & Manga | Computer Games | Programming |
-- 🌱 I’m currently learning PHP / JS / HTML&CSS / Python ( Sickit-Learn | TensorFlow )
 - 📫 How to reach me Email: antonciszewski@gmail.com | Discord : AntonC#2391
+- 🌱 I’m currently learning PHP / JS / HTML&CSS / Python ( Sickit-Learn | TensorFlow )
+- 👀 I’m interested in Water Sports | Anime & Manga | Computer Games | Programming |
+
+
